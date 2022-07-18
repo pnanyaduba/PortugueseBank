@@ -21,8 +21,8 @@ In this application, I explored a Bank Marketing Data Set from the following sit
 ---
 
 <p align="center">
-     🧙‍♂️&nbsp; Click here to access the Project Notebook <a href="https://github.com/pnanyaduba/kraftwerk/blob/main/practical_application_II_starter/prompt_II.ipynb">@Prompt II</a> <br>
-    📫&nbsp; Subscribe to my Twitter handle <a href="http://twitter.com/peteberc">@peteberc</a> for updates and my tweets.
+     🧙‍♂️&nbsp; Click here to access the Project Notebook <a href="https://github.com/pnanyaduba/PortugueseBank/blob/main/PortugueseBank.ipynb">Practical App 3</a> <br>
+    📫&nbsp; Subscribe to my Twitter handle <a href="http://twitter.com/hashtharg">@hashtharg</a> for updates and my tweets.
 </p>
 
 ---
@@ -30,7 +30,7 @@ In this application, I explored a Bank Marketing Data Set from the following sit
 
 ## Contents on Jupyter Notebook Steps
 
-- [Jupyter Notebook Link](https://github.com/pnanyaduba/kraftwerk/blob/main/practical_application_II_starter/prompt_II.ipynb)
+- [Jupyter Notebook Link](https://github.com/pnanyaduba/PortugueseBank/blob/main/PortugueseBank.ipynb)
 - Information about the data
 - Dropping Unwanted Columns
 - Filling Empty Cells
