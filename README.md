@@ -33,16 +33,12 @@ In this application, I explored a Bank Marketing Data Set from the following sit
 - [Jupyter Notebook Link](https://github.com/pnanyaduba/PortugueseBank/blob/main/PortugueseBank.ipynb)
 - Information about the data
 - Dropping Unwanted Columns
-- Filling Empty Cells
-- Replace Zeros on Price Column with the Mean of the column
 - Encode the whole categorical columns
-- Plot a histogram of encoded data
 - Get the Correlation Matrix
 - Plot the Scatter Matrix
 - Define the Modelling Data
-- Scale the Modelling Data
 - Perform Principal Component Analysis of the Scaled Data
-- Create four models - Linear Regression, PolynomialRegression, Ridge Regression and Lasso Regression
+- Create four models - Logistic Regression, DecisionTree, KNN and SVC
 - Evaluate the four models
 - Summarize the results of the Evaluations
 - Select the Best Model out of the four based on the summary
