@@ -16,7 +16,10 @@
     <a href="https://twitter.com/peteberc" title="Follow on Twitter"><img src="https://img.shields.io/twitter/follow/mltooling.svg?style=social&label=Follow"></a>
 </p>
 
-In this application, I explored a Bank Marketing Data Set from the following site: [UCI Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing). Our goal is to use about four classifiers in modelling the data and then compare the performance of each of the classifiers.
+In this application, I explored a Portuguese Bank Marketing Data Set from the following site: [UCI Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing). Our goal is to use about four classifiers in modelling the data and then compare the performance of each of the classifiers. 
+
+#### Business Objective
+The business objective is to predict if a customer will subscribe a term deposit.
 
 ---
 
