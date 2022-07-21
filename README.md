@@ -21,6 +21,11 @@ In this application, I explored a Portuguese Bank Marketing Data Set from the fo
 #### Business Objective
 The business objective is to predict if a customer will subscribe a term deposit.
 
+<h2 align="center">
+   **Selected Model: Support Vector Machine was selected**
+    <br>
+</h2>
+
 ---
 
 <p align="center">
