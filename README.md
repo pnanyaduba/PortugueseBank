@@ -27,6 +27,55 @@ In this application, I explored a Bank Marketing Data Set from the following sit
 
 ---
 
+## Report
+The Analysis of the Logistic Regress, Decision Tree Classifier, KNeighborsClassifier and the Support Vector Machines was performed according to the following criteria
+1. Imbalance Class Handling
+2. Model Training Speed
+3. Interpretable Results
+
+Other criteria observed include
+1. Accuracy
+2. Precision
+3. Recall
+4. Specificity
+5. Mean Squared Error
+
+- **Logistic Regression Classifier**
+    - SMOTE was used to handle imbalanced classes
+    - Speed of Training is moderately high at 0.58s
+    - Train Score performs slightly better than the Test Score
+    - Accuracy and Specificity are not too high at 59. and 33.
+    - Precision is low at 56.%
+    - Recall is high at 85.%
+    - Train and Test MSEs are relatively equal
+- **Decision Tree Classifier**
+    - SMOTE was used to handle imbalanced classes
+    - Speed of Training is moderately high at 0.4s
+    - Accuracy and Specificity are very high at 75.9% and 69.2% respectively
+    - Train Score performs slightly better than the Test Score
+    - Precision is high at 72.7%
+    - Recall is low at 82.6%
+    - However, the Decision Tree Classifier appears to overfit as Train MSE is lower than Test MSE
+- **KNearest Neighbors Classifier**
+    - SMOTE was used to handle imbalanced classes
+    - Speed of Training is high at 0.45s
+    - Accuracy and Specificity are very high at 72% and 66% respectively
+    - Train Score is slightly higher than the Test Score
+    - Precision is high at 69.8%
+    - Recall is low at 78.4%
+    - However, the KNNeighbors Classifier appears to slightly overfit since Test MSE is higher than Train MSE
+    
+- **Support Vector Machine**
+    - SMOTE was used to handle imbalanced classes
+    - Speed of Training is least at 12s
+    - Accuracy and Specificity are very high at 62.8% and 48% respectively
+    - Test Score is lower than Train Score
+    - Precision is 58.%
+    - Recall is high at 77.%
+    - Train and Test MSE are relatively equal
+
+### Selecting Best Model: Support Vector Machine
+- The Support Vector Machine was selected as best model because the Train and Test MSEs are relatively equal.
 
 ## Contents on Jupyter Notebook Steps
 
